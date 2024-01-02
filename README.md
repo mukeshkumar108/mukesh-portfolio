@@ -1,10 +1,10 @@
-### Personal Portfolio Site w Eleventy and Netlify
+# Personal Portfolio Site w Eleventy and Netlify
 
 ## Overview:
 
 Showcase my work and thoughts, and shake off dev cobwebs haha. 
 
-## Intended Features:
+### Intended Features:
 
 - Modern Component-Based Architecture: Utilizing partials and components for modularity and maintainability.
 - Dynamic Navigation: Site-wide and page-specific navigation bars catering to various content types.
@@ -24,6 +24,6 @@ Showcase my work and thoughts, and shake off dev cobwebs haha.
 - Simple Site Header: Compact header with logo and menu, transforming into a mobile-friendly hamburger menu on smaller screens.
 - Netlify Hosting and Deployment: Seamless deployment and hosting on Netlify.
 
-### License:
+## License:
 
 This project is licensed under the MIT License.
