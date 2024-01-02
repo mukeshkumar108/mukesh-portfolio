@@ -1,0 +1,17 @@
+node_modules/
+public/
+
+# Operating system-specific files
+.DS_Store
+Thumbs.db
+
+# Editor-specific files
+*.sublime-workspace
+*.code-workspace
+
+# Build artifacts 
+build/
+dist/
+
+# Sensitive data
+.env
